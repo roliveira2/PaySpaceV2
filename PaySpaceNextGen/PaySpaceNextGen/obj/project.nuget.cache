@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PiFIJtFjKODysDPwP2eQEiS7Xl7przlAvo3Tj025495wtSzTakpPsviyDb7EB/OaEpvV5Ff4Uc/eAf8Ehygr0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\Documents\\GitHubTemp\\PaySpaceNextGen\\PaySpaceNextGen\\PaySpaceNextGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

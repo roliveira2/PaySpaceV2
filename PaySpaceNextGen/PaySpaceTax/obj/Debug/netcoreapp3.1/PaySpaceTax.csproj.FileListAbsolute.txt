@@ -1,0 +1,9 @@
+C:\Users\rodri\Documents\GitHubTemp\PaySpaceNextGen\PaySpaceTax\bin\Debug\netcoreapp3.1\PaySpaceTax.deps.json
+C:\Users\rodri\Documents\GitHubTemp\PaySpaceNextGen\PaySpaceTax\bin\Debug\netcoreapp3.1\PaySpaceTax.dll
+C:\Users\rodri\Documents\GitHubTemp\PaySpaceNextGen\PaySpaceTax\bin\Debug\netcoreapp3.1\PaySpaceTax.pdb
+C:\Users\rodri\Documents\GitHubTemp\PaySpaceNextGen\PaySpaceTax\obj\Debug\netcoreapp3.1\PaySpaceTax.csprojAssemblyReference.cache
+C:\Users\rodri\Documents\GitHubTemp\PaySpaceNextGen\PaySpaceTax\obj\Debug\netcoreapp3.1\PaySpaceTax.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\GitHubTemp\PaySpaceNextGen\PaySpaceTax\obj\Debug\netcoreapp3.1\PaySpaceTax.AssemblyInfo.cs
+C:\Users\rodri\Documents\GitHubTemp\PaySpaceNextGen\PaySpaceTax\obj\Debug\netcoreapp3.1\PaySpaceTax.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHubTemp\PaySpaceNextGen\PaySpaceTax\obj\Debug\netcoreapp3.1\PaySpaceTax.dll
+C:\Users\rodri\Documents\GitHubTemp\PaySpaceNextGen\PaySpaceTax\obj\Debug\netcoreapp3.1\PaySpaceTax.pdb
